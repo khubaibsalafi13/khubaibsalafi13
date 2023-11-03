@@ -1,16 +1,19 @@
-### Hi there 👋
+![Fornt End Devoleper](https://scontent.fdac152-1.fna.fbcdn.net/v/t39.30808-6/397975388_3554985074830377_2015277518455922265_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=100&ccb=1-7&_nc_sid=5f2048&_nc_ohc=0Yyy0LtfOwsAX8Skh5X&_nc_ht=scontent.fdac152-1.fna&oh=00_AfA3er5Fql1u_XB75Zb1VZYDdb4KCqE2NqLhX4DZtRjvLg&oe=65497CA5)
+### Hi there 👋, My Name Is Khubaib Salafi
+#### Fornt End Devoleper
+I'm a front-end developer who's on a mission to bring web projects to life with stunning, interactive user interfaces. I thrive on turning design concepts into code and making the web a more user-friendly place.
 
-<!--
-**khubaibsalafi13/khubaibsalafi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Skills: 💻 Tech Stack: - HTML, CSS, JavaScript (ES6+) - React.js - SASS - Responsive Web Design - Git/GitHub - Front-End Build Tools  - Testing and Debugging
+
+- 🔭 I’m currently working on this page. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/khubaibsalafi13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/khubaibsalafi13)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/khubaibsalafi13//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/khubaibsalafi13&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=https://github.com/khubaibsalafi13)  
+
